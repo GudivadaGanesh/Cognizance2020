@@ -60,3 +60,10 @@ public class GFG {
 * Server Load. Being client-side reduces the demand on the website server.
 
 * Gives the ability to create rich interfaces.
+
+## Disadvantages of JavaScript
+
+* Client-Side Security. Because the code executes on the users’ computer, in some cases it can be exploited for malicious purposes. This is one reason some people choose to disable Javascript.
+
+* Browser Support. JavaScript is sometimes interpreted differently by different browsers. This makes it somewhat difficult to write cross-browser code.
+
