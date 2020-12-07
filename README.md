@@ -40,3 +40,12 @@ public class GFG {
 ![https://onecompiler.com/java/3wf4tzprp]
 
 (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mathwarehouse.com%2Fgeometry%2Ftriangles%2Ftriangle-inequality-theorem-rule-explained.php&psig=AOvVaw20E055lWstmoz2BgeG3Omp&ust=1607436599010000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDElpSGvO0CFQAAAAAdAAAAABAK)
+
+## SOME POINTS ABOUT JAVA
+---
+
+* You can add properties to almost everything
+* loops iterate over property names, not values
+* Variables that aren’t explicitly declared can be global
+* Understand how .prototype works
+* JavaScript never sleep()s
