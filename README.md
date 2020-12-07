@@ -38,3 +38,5 @@ public class GFG {
 
 ## EXAMPLE
 ![https://onecompiler.com/java/3wf4tzprp]
+
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mathwarehouse.com%2Fgeometry%2Ftriangles%2Ftriangle-inequality-theorem-rule-explained.php&psig=AOvVaw20E055lWstmoz2BgeG3Omp&ust=1607436599010000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDElpSGvO0CFQAAAAAdAAAAABAK)
