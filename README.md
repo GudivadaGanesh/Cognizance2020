@@ -49,3 +49,14 @@ public class GFG {
 * Variables that aren’t explicitly declared can be global
 * Understand how .prototype works
 * JavaScript never sleep()s
+
+## Advantages of JavaScript
+* Speed. Client-side JavaScript is very fast because it can be run immediately within the client-side browser. 
+* Simplicity. JavaScript is relatively simple to learn and implement.
+* Popularity. JavaScript is used everywhere on the web.
+
+* Interoperability. JavaScript plays nicely with other languages and can be used in a huge variety of applications.
+
+* Server Load. Being client-side reduces the demand on the website server.
+
+* Gives the ability to create rich interfaces.
