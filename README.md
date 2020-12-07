@@ -35,3 +35,6 @@ public class GFG {
           
     } 
 } 
+
+## EXAMPLE
+![https://onecompiler.com/java/3wf4tzprp]
